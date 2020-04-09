@@ -1,0 +1,27 @@
+{"produk" : [
+     {"merek" : "supra",
+      "harga" : 5500000,
+      "image" : "https://cdn0-production-images-kly.akamaized.net/QbYVo9CS2CJxhhhFQJMnDmLQ4q4=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2747152/original/088219600_1552155797-AHM_Honda_Supra_X_125_FI._06_.jpg"
+     },
+     
+     {"merek" : "mio",
+      "harga" : 3400000,
+      "image" : "https://d2pa5gi5n2e1an.cloudfront.net/global/images/product/motorcycle/Yamaha_Mio/Yamaha_Mio_L_1.jpg"
+     },
+      
+     {"merek" : "NMax",
+      "harga" : 2500000,
+      "image" : "https://d2pa5gi5n2e1an.cloudfront.net/global/images/product/motorcycle/Yamaha_NMAX_2018/Yamaha_NMAX_2018_L_1.jpg"
+     },
+       
+     {"merek" : "Shogun",
+      "harga" : 3400000, 
+      "image" : "https://d2pa5gi5n2e1an.cloudfront.net/webp/global/images/product/motorcycle/Suzuki_Shogun_Axelo125/Suzuki_Shogun_Axelo125_L_1.jpg"
+     },
+     
+     {"merek" : "Satria",
+      "harga" : 1400000,
+      "image" : "https://www.suzuki.co.id//assets/static/img/variant/Satria-WhiteBlue.png"
+     }
+  ] 
+}               
